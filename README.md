@@ -1,4 +1,4 @@
-# AutoModeller WEB: Plataforma Automatizada para Modelagem Molecular 3D
+# AutoMoldel WEB: Plataforma Automatizada para Modelagem Molecular 3D
 
 Plataforma Web automatizada de alto desempenho desenvolvida em **Django (Python 3)** para orquestrar e gerenciar experimentos de modelagem comparativa de estruturas tridimensionais de proteínas utilizando o **Modeller 10.7**.
 
